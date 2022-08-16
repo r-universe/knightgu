@@ -3,3 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SALES"]
+	path = SALES
+	url = https://github.com/knightgu/sales
+	shallow = true
+	subdir = SALES
+	registered = true
